@@ -1,0 +1,6 @@
+D:\Repositories\HomeWorks\01_Trapezium\01_Trapezium\bin\Debug\01_Trapezium.exe.config
+D:\Repositories\HomeWorks\01_Trapezium\01_Trapezium\obj\Debug\01_Trapezium.csprojResolveAssemblyReference.cache
+D:\Repositories\HomeWorks\01_Trapezium\01_Trapezium\bin\Debug\01_Trapezium.exe
+D:\Repositories\HomeWorks\01_Trapezium\01_Trapezium\bin\Debug\01_Trapezium.pdb
+D:\Repositories\HomeWorks\01_Trapezium\01_Trapezium\obj\Debug\01_Trapezium.exe
+D:\Repositories\HomeWorks\01_Trapezium\01_Trapezium\obj\Debug\01_Trapezium.pdb
